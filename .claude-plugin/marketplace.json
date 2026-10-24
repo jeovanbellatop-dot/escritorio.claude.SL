@@ -1,0 +1,5 @@
+{
+  "name": "escritorio-claude",
+  "owner": { "name": "jeovanbellatop-dot" },
+  "plugins": [{ "name": "escritorio", "source": "./" }]
+}
