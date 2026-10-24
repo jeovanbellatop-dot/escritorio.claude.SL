@@ -1,0 +1,10 @@
+{
+  "name": "escritorio",
+  "version": "0.1.0",
+  "description": "Escritório virtual: um bonequinho por janela do Claude Code, trabalhando enquanto o Claude executa",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "jeovanbellatop-dot"
+  }
+}
